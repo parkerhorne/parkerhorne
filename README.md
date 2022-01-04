@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parkerhorne
 - 👀 I’m interested in gameplay programming!
-- 🌱 I’m currently learning Unreal Engine 4 and C++!
+- 🌱 I’m currently learning Unreal Engine 4, C++, Unity, and C#!
 - :video_game: I'm currently developing Anesthesia, a horror puzzle game, as an academic project with a team of 15 people!
 
 <!---
